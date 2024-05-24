@@ -19,5 +19,8 @@ This project is a stopwatch application that allows users to start, stop, reset,
 4. Click the "GetTime" button to display the current stop time without stopping the timer.
 5. Click the "ClearTime" button to clear all recorded stop times.
 
+![image](https://github.com/Anmol507/Stop_Watch/assets/111302772/539fae01-97b1-434f-bf10-65f8e3cdb8d9)
+
+
 
 **🧑‍💻Contributions are welcome! If you have suggestions for improvements or find any issues, please feel free to open an issue or create a pull request.**
